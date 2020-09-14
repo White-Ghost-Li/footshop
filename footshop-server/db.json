@@ -1,0 +1,332 @@
+{
+  "_mantanghua": {
+    "id": "_mantanghua",
+    "name": "嘉禾一品（满堂花醉）",
+    "description": "幽灵专送",
+    "deliveryTime": 28,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "distance": "1000m",
+    "bulletin": "是以粥为特色的中式营养快餐，自2004年10月18日创立“嘉和一品”品牌至今，不断优化管理，积极创新，立足于“贴近百姓生活，服务千家万户”",
+    "supports": [
+      {
+        "type": 0,
+        "name": "首单",
+        "content": "新用户下单立减17元(不与其它活动同享)"
+      },
+      {
+        "type": 1,
+        "name": "满减",
+        "content": "满35减19，满65减35"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.5元】欢乐小食餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减29元】火烤菠萝皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减16.5元】火烤菠萝皇堡单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减15】经典安格斯单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减11.95】皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.8】半价单人餐"
+      }
+    ],
+    "avatar": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+    "bgImg": "https://fuss10.elemecdn.com/f/5c/ead54394c3de198d3e6d3e9111bbfpng.png",
+    "pics": [
+      "https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg",
+      "https://fuss10.elemecdn.com/6/82/2cd3d681f5e93292b3eb49d6b412ajpeg.jpeg",
+      "https://fuss10.elemecdn.com/8/93/4cf527b6462eea634f69755374f88jpeg.jpeg",
+      "https://fuss10.elemecdn.com/3/f2/2a8796ba025a5773fd685a95ac369jpeg.jpeg",
+      "https://fuss10.elemecdn.com/a/c4/5a78f477fd616a51ce33586a76ddbjpeg.jpeg"
+    ],
+    "category": "包子粥店, 简餐",
+    "phone": "18501083744",
+    "address": "北京市丰台区太平桥44号",
+    "workTime": "09:35-24:00"
+  },
+  "_sanqianke": {
+    "id": "_sanqianke",
+    "name": "嘉禾一品（三千客）",
+    "description": "幽灵专送",
+    "deliveryTime": 28,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "distance": "1000m",
+    "bulletin": "是以粥为特色的中式营养快餐，自2004年10月18日创立“嘉和一品”品牌至今，不断优化管理，积极创新，立足于“贴近百姓生活，服务千家万户”",
+    "supports": [
+      {
+        "type": 0,
+        "name": "首单",
+        "content": "新用户下单立减17元(不与其它活动同享)"
+      },
+      {
+        "type": 1,
+        "name": "满减",
+        "content": "满35减19，满65减35"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.5元】欢乐小食餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减29元】火烤菠萝皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减16.5元】火烤菠萝皇堡单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减15】经典安格斯单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减11.95】皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.8】半价单人餐"
+      }
+    ],
+    "avatar": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+    "bgImg": "https://fuss10.elemecdn.com/f/5c/ead54394c3de198d3e6d3e9111bbfpng.png",
+    "pics": [
+      "https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg",
+      "https://fuss10.elemecdn.com/6/82/2cd3d681f5e93292b3eb49d6b412ajpeg.jpeg",
+      "https://fuss10.elemecdn.com/8/93/4cf527b6462eea634f69755374f88jpeg.jpeg",
+      "https://fuss10.elemecdn.com/3/f2/2a8796ba025a5773fd685a95ac369jpeg.jpeg",
+      "https://fuss10.elemecdn.com/a/c4/5a78f477fd616a51ce33586a76ddbjpeg.jpeg"
+    ],
+    "category": "包子粥店, 简餐",
+    "phone": "18501083744",
+    "address": "北京市丰台区太平桥44号",
+    "workTime": "09:35-24:00"
+  },
+  "_yijianshuang": {
+    "id": "_yijianshuang",
+    "name": "嘉禾一品（一剑霜寒）",
+    "description": "幽灵专送",
+    "deliveryTime": 28,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "distance": "1000m",
+    "bulletin": "是以粥为特色的中式营养快餐，自2004年10月18日创立“嘉和一品”品牌至今，不断优化管理，积极创新，立足于“贴近百姓生活，服务千家万户”",
+    "supports": [
+      {
+        "type": 0,
+        "name": "首单",
+        "content": "新用户下单立减17元(不与其它活动同享)"
+      },
+      {
+        "type": 1,
+        "name": "满减",
+        "content": "满35减19，满65减35"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.5元】欢乐小食餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减29元】火烤菠萝皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减16.5元】火烤菠萝皇堡单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减15】经典安格斯单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减11.95】皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.8】半价单人餐"
+      }
+    ],
+    "avatar": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+    "bgImg": "https://fuss10.elemecdn.com/f/5c/ead54394c3de198d3e6d3e9111bbfpng.png",
+    "pics": [
+      "https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg",
+      "https://fuss10.elemecdn.com/6/82/2cd3d681f5e93292b3eb49d6b412ajpeg.jpeg",
+      "https://fuss10.elemecdn.com/8/93/4cf527b6462eea634f69755374f88jpeg.jpeg",
+      "https://fuss10.elemecdn.com/3/f2/2a8796ba025a5773fd685a95ac369jpeg.jpeg",
+      "https://fuss10.elemecdn.com/a/c4/5a78f477fd616a51ce33586a76ddbjpeg.jpeg"
+    ],
+    "category": "包子粥店, 简餐",
+    "phone": "18501083744",
+    "address": "北京市丰台区太平桥44号",
+    "workTime": "09:35-24:00"
+  },
+  "_shisizhou": {
+    "id": "_shisizhou",
+    "name": "嘉禾一品（十四州）",
+    "description": "幽灵专送",
+    "deliveryTime": 28,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "distance": "1000m",
+    "bulletin": "是以粥为特色的中式营养快餐，自2004年10月18日创立“嘉和一品”品牌至今，不断优化管理，积极创新，立足于“贴近百姓生活，服务千家万户”",
+    "supports": [
+      {
+        "type": 0,
+        "name": "首单",
+        "content": "新用户下单立减17元(不与其它活动同享)"
+      },
+      {
+        "type": 1,
+        "name": "满减",
+        "content": "满35减19，满65减35"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.5元】欢乐小食餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减29元】火烤菠萝皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减16.5元】火烤菠萝皇堡单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减15】经典安格斯单人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减11.95】皇堡双人餐"
+      },
+      {
+        "type": 2,
+        "name": "特价",
+        "content": "【立减19.8】半价单人餐"
+      }
+    ],
+    "avatar": "https://fuss10.elemecdn.com/8/40/02872ce8aefe75c16d3190e75ad61jpeg.jpeg",
+    "bgImg": "https://fuss10.elemecdn.com/f/5c/ead54394c3de198d3e6d3e9111bbfpng.png",
+    "pics": [
+      "https://fuss10.elemecdn.com/f/7f/d1422ec824a0a9d1fb879c57ab533jpeg.jpeg",
+      "https://fuss10.elemecdn.com/6/82/2cd3d681f5e93292b3eb49d6b412ajpeg.jpeg",
+      "https://fuss10.elemecdn.com/8/93/4cf527b6462eea634f69755374f88jpeg.jpeg",
+      "https://fuss10.elemecdn.com/3/f2/2a8796ba025a5773fd685a95ac369jpeg.jpeg",
+      "https://fuss10.elemecdn.com/a/c4/5a78f477fd616a51ce33586a76ddbjpeg.jpeg"
+    ],
+    "category": "包子粥店, 简餐",
+    "phone": "18501083744",
+    "address": "北京市丰台区太平桥44号",
+    "workTime": "09:35-24:00"
+  },
+  "shops": {
+    "满堂花醉":{
+      "name":"满堂花醉",
+      "id":"_mantanghua",
+      "supports":[{"icon_name":"保"},{"icon_name":"准"},{"icon_name":"票"}],
+      "rating":3.6,
+      "recent_order_num":106,
+      "delivery_mode":"幽灵专送",
+      "float_minimun_order_amount":20,
+      "float_delivery_fee":5,
+      "distance": 10
+    },
+    "三千客":{
+      "name":"三千客",
+      "id":"_sanqianke",
+      "supports":[{"icon_name":"保"},{"icon_name":"准"},{"icon_name":"票"}],
+      "rating":3.4,
+      "recent_order_num":108,
+      "delivery_mode":"幽灵专送",
+      "float_minimun_order_amount":20,
+      "float_delivery_fee":5,
+      "distance": 13
+    },
+    "一剑霜寒":{
+      "name":"一剑霜寒",
+      "id":"_yijianshuang",
+      "supports":[{"icon_name":"保"},{"icon_name":"准"},{"icon_name":"票"}],
+      "rating":4.5,
+      "recent_order_num":231,
+      "delivery_mode":"幽灵专送",
+      "float_minimun_order_amount":20,
+      "float_delivery_fee":5,
+      "distance": 15
+    },
+    "十四州":{
+      "name":"十四州",
+      "id":"_shisizhou",
+      "supports":[{"icon_name":"保"},{"icon_name":"准"},{"icon_name":"票"}],
+      "rating":3.5,
+      "recent_order_num":120,
+      "delivery_mode":"幽灵专送",
+      "float_minimun_order_amount":20,
+      "float_delivery_fee":5,
+      "distance": 12
+    }
+  }
+}
